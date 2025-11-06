@@ -1,0 +1,11 @@
+D:\DogsHouse\DogsHouse.Domain\bin\Debug\net9.0\DogsHouse.Domain.deps.json
+D:\DogsHouse\DogsHouse.Domain\bin\Debug\net9.0\DogsHouse.Domain.dll
+D:\DogsHouse\DogsHouse.Domain\bin\Debug\net9.0\DogsHouse.Domain.pdb
+D:\DogsHouse\DogsHouse.Domain\obj\Debug\net9.0\DogsHouse.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DogsHouse\DogsHouse.Domain\obj\Debug\net9.0\DogsHouse.Domain.AssemblyInfoInputs.cache
+D:\DogsHouse\DogsHouse.Domain\obj\Debug\net9.0\DogsHouse.Domain.AssemblyInfo.cs
+D:\DogsHouse\DogsHouse.Domain\obj\Debug\net9.0\DogsHouse.Domain.csproj.CoreCompileInputs.cache
+D:\DogsHouse\DogsHouse.Domain\obj\Debug\net9.0\DogsHouse.Domain.dll
+D:\DogsHouse\DogsHouse.Domain\obj\Debug\net9.0\refint\DogsHouse.Domain.dll
+D:\DogsHouse\DogsHouse.Domain\obj\Debug\net9.0\DogsHouse.Domain.pdb
+D:\DogsHouse\DogsHouse.Domain\obj\Debug\net9.0\ref\DogsHouse.Domain.dll

@@ -1,0 +1,17 @@
+D:\DogsHouse\DogsHouse.Application\bin\Debug\net9.0\DogsHouse.Application.deps.json
+D:\DogsHouse\DogsHouse.Application\bin\Debug\net9.0\DogsHouse.Application.dll
+D:\DogsHouse\DogsHouse.Application\bin\Debug\net9.0\DogsHouse.Application.pdb
+D:\DogsHouse\DogsHouse.Application\bin\Debug\net9.0\DogsHouse.Infrastructure.dll
+D:\DogsHouse\DogsHouse.Application\bin\Debug\net9.0\DogsHouse.Infrastructure.pdb
+D:\DogsHouse\DogsHouse.Application\obj\Debug\net9.0\DogsHouse.Application.csproj.AssemblyReference.cache
+D:\DogsHouse\DogsHouse.Application\obj\Debug\net9.0\DogsHouse.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DogsHouse\DogsHouse.Application\obj\Debug\net9.0\DogsHouse.Application.AssemblyInfoInputs.cache
+D:\DogsHouse\DogsHouse.Application\obj\Debug\net9.0\DogsHouse.Application.AssemblyInfo.cs
+D:\DogsHouse\DogsHouse.Application\obj\Debug\net9.0\DogsHouse.Application.csproj.CoreCompileInputs.cache
+D:\DogsHouse\DogsHouse.Application\obj\Debug\net9.0\DogsHous.8E5EFE7C.Up2Date
+D:\DogsHouse\DogsHouse.Application\obj\Debug\net9.0\DogsHouse.Application.dll
+D:\DogsHouse\DogsHouse.Application\obj\Debug\net9.0\refint\DogsHouse.Application.dll
+D:\DogsHouse\DogsHouse.Application\obj\Debug\net9.0\DogsHouse.Application.pdb
+D:\DogsHouse\DogsHouse.Application\obj\Debug\net9.0\ref\DogsHouse.Application.dll
+D:\DogsHouse\DogsHouse.Application\bin\Debug\net9.0\DogsHouse.Domain.dll
+D:\DogsHouse\DogsHouse.Application\bin\Debug\net9.0\DogsHouse.Domain.pdb
