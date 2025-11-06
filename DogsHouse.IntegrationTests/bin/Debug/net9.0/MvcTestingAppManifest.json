@@ -1,0 +1,6 @@
+{
+  "DogsHouse.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\DogsHouse\\DogsHouse.API",
+  "DogsHouse.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\DogsHouse\\DogsHouse.Application",
+  "DogsHouse.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\DogsHouse\\DogsHouse.Domain",
+  "DogsHouse.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\DogsHouse\\DogsHouse.Infrastructure"
+}

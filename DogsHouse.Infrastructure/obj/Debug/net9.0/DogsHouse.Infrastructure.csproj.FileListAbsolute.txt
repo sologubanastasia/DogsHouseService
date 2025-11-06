@@ -1,0 +1,17 @@
+D:\DogsHouse\DogsHouse.Infrastructure\bin\Debug\net9.0\DogsHouse.Infrastructure.deps.json
+D:\DogsHouse\DogsHouse.Infrastructure\bin\Debug\net9.0\DogsHouse.Infrastructure.runtimeconfig.json
+D:\DogsHouse\DogsHouse.Infrastructure\bin\Debug\net9.0\DogsHouse.Infrastructure.dll
+D:\DogsHouse\DogsHouse.Infrastructure\bin\Debug\net9.0\DogsHouse.Infrastructure.pdb
+D:\DogsHouse\DogsHouse.Infrastructure\obj\Debug\net9.0\DogsHouse.Infrastructure.csproj.AssemblyReference.cache
+D:\DogsHouse\DogsHouse.Infrastructure\obj\Debug\net9.0\DogsHouse.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DogsHouse\DogsHouse.Infrastructure\obj\Debug\net9.0\DogsHouse.Infrastructure.AssemblyInfoInputs.cache
+D:\DogsHouse\DogsHouse.Infrastructure\obj\Debug\net9.0\DogsHouse.Infrastructure.AssemblyInfo.cs
+D:\DogsHouse\DogsHouse.Infrastructure\obj\Debug\net9.0\DogsHouse.Infrastructure.csproj.CoreCompileInputs.cache
+D:\DogsHouse\DogsHouse.Infrastructure\obj\Debug\net9.0\DogsHouse.Infrastructure.dll
+D:\DogsHouse\DogsHouse.Infrastructure\obj\Debug\net9.0\refint\DogsHouse.Infrastructure.dll
+D:\DogsHouse\DogsHouse.Infrastructure\obj\Debug\net9.0\DogsHouse.Infrastructure.pdb
+D:\DogsHouse\DogsHouse.Infrastructure\obj\Debug\net9.0\DogsHouse.Infrastructure.genruntimeconfig.cache
+D:\DogsHouse\DogsHouse.Infrastructure\obj\Debug\net9.0\ref\DogsHouse.Infrastructure.dll
+D:\DogsHouse\DogsHouse.Infrastructure\bin\Debug\net9.0\DogsHouse.Domain.dll
+D:\DogsHouse\DogsHouse.Infrastructure\bin\Debug\net9.0\DogsHouse.Domain.pdb
+D:\DogsHouse\DogsHouse.Infrastructure\obj\Debug\net9.0\DogsHous.B9AD1EC6.Up2Date

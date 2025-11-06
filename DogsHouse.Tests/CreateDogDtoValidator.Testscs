@@ -1,0 +1,33 @@
+using Xunit;
+using FluentAssertions;
+using DogsHouse.Application.Dto;
+using DogsHouse.Application.Validation;
+
+public class CreateDogDtoValidatorTests
+{
+    private readonly CreateDogDtoValidator _validator = new();
+
+    [Fact]
+    public void Validator_Should_Pass_For_Valid_Dog()
+    {
+        var dto = new CreateDogDto { Name = "Rex", Color = "Brown", TailLength = 5, Weight = 10 };
+
+        var result = _validator.Validate(dto);
+
+        result.IsValid.Should().BeTrue();
+    }
+
+    [Theory]
+    [InlineData("", "Brown", 5, 10)]   
+    [InlineData("Rex", "", 5, 10)]    
+    [InlineData("Rex", "Brown", -1, 10)] 
+    [InlineData("Rex", "Brown", 5, -5)]  
+    public void Validator_Should_Fail_For_Invalid_Data(string name, string color, int tail, int weight)
+    {
+        var dto = new CreateDogDto { Name = name, Color = color, TailLength = tail, Weight = weight };
+
+        var result = _validator.Validate(dto);
+
+        result.IsValid.Should().BeFalse();
+    }
+}
